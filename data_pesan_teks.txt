@@ -13,8 +13,8 @@ bot akan memuat teks yang mengandung kosakata dan mengembalikan kalimat balasan
 
 Hai Sayang$                       = 
  Nama User :%nama
- Nama Bot : IkhsanBot[BETA]〽️
- Nama Owner : @Ikhsan5475〽️
+ Nama Bot : AndiGansBot[BETA]〽️
+ Nama Owner : @AndiGans406〽️
  Prefix : 「 # 」
  Days : %tanggal November 2022
  Total Pengguna : 194
@@ -141,15 +141,15 @@ Hai Sayang$                       =
 │ ❖#template
 └⬣;
 
-#infobot                        =  Pembuat Bot: IKHSAN〽️
+#infobot                        =  Pembuat Bot: ANDIGANS〽️
 Nomor Bot(WA) :wa.me/6283137750223
-Telegram  :@Ikhsan5475
+Telegram  :@AndiGans
 Jenis Script : PHP
 ╔═════════
-║ INFO BOT BY IKHSAN 〽️ 
+║ INFO BOT BY ANDIGANS 〽️ 
 ╠════════════════════
 ║╭──❉ INFO BOT ❉─────
-║│➸ BOT NAME: IkhsanBot[BETA] 〽️
+║│➸ BOT NAME: AndiGansBot[BETA] 〽️
 ║│➸ USER : NOT VIP
 ║│➸ BOT DATE: %tanggal Juni 2022
 ║│➸ POWER BOT: 10%
@@ -157,13 +157,7 @@ Jenis Script : PHP
 ║│➸ TIME/HOUR : %jam %menit
 ║╰──────────────────
 ╠════════════════════
-║
-║              
-║  ▌│█║▌║▌║║▌║▌║█│▌
-║  ▌│█║▌║▌║║▌║▌║█│▌
-║        
-╠════════════════════
-║ POWERED BY IKHSAN 〽️
+║ POWERED BY ANDIGANS 〽️
 ╚════════════════════
 
 DONASI KAK🐣:+6283137750223[Axis Kuota/Pulsa]
@@ -174,18 +168,11 @@ DONASI KAK🐣:+6283137750223[Axis Kuota/Pulsa]
 ║ *DONASI UNTUK YnzBotZ 〽️ *
 ╠════════════════════
 ║╭──❉ DONASI KAK ❉─────
-║│➸ PULSA AXIS: 6283137750223
-║│➸ PULSA 3:62895402117276
+║│➸ PULSA AXIS: 085923730473
 ║│
 ║╰──────────────────
 ╠════════════════════
-║
-║             
-║  ▌│█║▌║▌║║▌║▌║█│▌
-║  ▌│█║▌║▌║║▌║▌║█│▌
-║        
-╠════════════════════
-║ POWERED BY IKHSAN 〽️
+║ POWERED BY ANDI GANS 〽️
 ╚════════════════════
 
 
@@ -194,7 +181,7 @@ Note:
 
 Nyari nomor owner??,ketik #owner;
 
-#owner                          =  Ni Kak %nama @Ikhsan5475;
+#owner                          =  Ni Kak %nama @AndiGans406;
 
 #peraturan                      =  ⚙️PERATURAN⚙️
 ╔════════════════╗
@@ -211,14 +198,9 @@ Nyari nomor owner??,ketik #owner;
 ║▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣
 ╠════════════════╝
 ╠⌦ ❗LANGGAR BLOCK
-╠════════════════╝
-║             
-║   ▌│█║▌║▌║║▌║▌║█│▌
-║   ▌│█║▌║▌║║▌║▌║█│▌
-║      IKHSAN Telegram
 ╚════════════════╝;
 
-#apkhack                        = ╭─「 IKHSAN Bot〽️ 」
+#apkhack                        = ╭─「 ANDI Bot〽️ 」
 ║╭─────  
 ║├「INFORMATION」
 ║│ USERNAME: %nama
@@ -245,7 +227,7 @@ Nyari nomor owner??,ketik #owner;
 ║ada di menu bot
 ║
 ║
-╰─「©By Ikhsan 〽️」;
+╰─「©By AndiGans 〽️」;
 
 #termux                         = 🔰TERMUX MOD APK TERBARU 🔰
 
@@ -282,7 +264,7 @@ Link: https://safefileku.com/download/w3jXQXw1OEd1WdG;
 
 #scdeface                       = Menu Error;
 
-#tools                          = ╭─「 IKHSAN BOT〽️ 」
+#tools                          = ╭─「 ANDIGANS BOT〽️ 」
 ║╭─────  
 ║├「 lNFORMATION 」
 ║│ USERNAME: %nama
@@ -313,7 +295,7 @@ Link: https://safefileku.com/download/w3jXQXw1OEd1WdG;
 ║yang kami kumpulkan dari
 ║beberapa Website.
 ║
-╰─「©By IKHSAN〽️」;
+╰─「©By ANDIGANS〽️」;
 
 #darkfb                         = TOOLS DARK FB V1.9
 
@@ -490,7 +472,7 @@ python2 weeman.py;
 [ https://www.mediafire.com/file/lvw4guvpz6bfmvh/WhatsApp_2.20.207.19.apk/file ]
 
     
-       Powered by IKHSAN 〽️;
+       Powered by ANDIGANS 〽️;
 
 #modapk                         =  •Auto Responder For WhatsApp
 https://www.mediafire.com/file/mbjiw1v7gx2beum/AutoResponder_untuk_WA_2.4.0.apk/file
@@ -537,7 +519,7 @@ https://www.mediafire.com/download/0y2bba69f6wakuh;
 ╰━━━━━━━━━━━━━
 ༆●SEMOGA BETAH<3●༆
 
-   © Created By IKHSAN〽️;
+   © Created By ANDIGANS〽️;
 
 #pantun                         = Menu Dimatikan;
 
@@ -772,7 +754,7 @@ https://play.google.com/store/apps/details?id=com.frontrow.vlog
 5. Inshot : 
 https://play.google.com/store/apps/details?id=com.camerasideas.instashot
 
-       Powered by IKHSAN 〽️;
+       Powered by ANDIGANS 〽️;
 
 #apkmusic                       = 1. FL studio mobile :
 https://play.google.com/store/apps/details?id=com.imageline.FLM
@@ -800,7 +782,7 @@ https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor
 5. Pixlr
 https://play.google.com/store/apps/details?id=com.pixlr.express
 
-      Powered by IKHSAN 〽️;
+      Powered by ANDIGANS 〽️;
 
 #apkjedagjedug                  = 1. Alight Montion :
 https://play.google.com/store/apps/details?id=com.alightcreative.motion
@@ -843,7 +825,7 @@ Berikut Beberapa Apk Yang Bisa Kita Gunakan :
 
 𝙑𝙄𝘿𝙀𝙊 𝘿𝙊𝙎𝘼
 
-👾©IKHSAN 〽️👾;
+👾© ANDIGANS 〽️👾;
 
 #dosa2                          = 么
 
@@ -853,7 +835,7 @@ Berikut Beberapa Apk Yang Bisa Kita Gunakan :
 
 𝙑𝙄𝘿𝙀𝙊 𝘿𝙊𝙎𝘼 ( 4 )
 
-👾 𝙎𝘾 𝘽𝙔 IKHSAN👾;
+👾 𝙎𝘾 𝘽𝙔 ANDIGANS👾;
 
 #listhp                           = 📱List Hp Yg Tersedia Di Tahun 2021
 
@@ -921,7 +903,7 @@ Memori eksternal: Micro SD slot (up to 512GB)
 Baterai: 4000 mAh
 Biometric Authentications: Rear Fingerprint,Face Recognition
 
-🔰IKHSAN BOT🔰;
+🔰 ANDIGANS BOT🔰;
 
 #oppo                            = 1. OPPO Reno2
 Harga: Rp 7.999.000
@@ -976,7 +958,7 @@ Kamera Depan: 16 MP
 Baterai: 5000 mAh
 Warna: Marine Green dan Space Purple
 
-🔰IKHSAN BOT🔰;
+🔰 ANDIGANS BOT🔰;
 
 #realme                          = 1. Realme 5S
 Harga: Rp 2.699.000
@@ -1067,7 +1049,7 @@ SIM: Dual SIM + slot microSD
 IR blaster: Ada 
 Lainnya: Wireless FM Radio, Corning Gorilla Glass 5 , Wireless FM Radio
 
-🔰IKHSAN BOT🔰;
+🔰 ANDIGANS BOT🔰;
 
 #daftar                          = 「 PENDAFTARAN USER 」
 Thanks Telah Terdaftar Di GoodBoy-BOTz ☕
@@ -1369,7 +1351,7 @@ https://snaptik.app/ID ;
 
 #unban                          = KAU BUKAN OWNERKU;
 
-#req                            = SILAKAN requests Menu anda disini @Ikhsan5475;
+#req                            = SILAKAN requests Menu anda disini @AndiGans406;
 
 #cekgay                         = 60% njir gay;
 
